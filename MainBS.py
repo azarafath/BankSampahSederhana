@@ -15,8 +15,7 @@ class BankSampah():
 
         self.data.append({'Nama':nama,
                     'Jenis':jenis,
-                    'Berat':berat,
-                    'Harga Beli':''})
+                    'Berat':berat})
         self.jumlah += 1
             
     def Admin(self):
